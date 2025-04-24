@@ -1,11 +1,10 @@
-Certainly! Here's a comprehensive `README.md` file tailored for your modular LangChain-based agent project. This README provides clear instructions on setup, usage, and project structure to assist users and contributors.
-
----
 
 # 🧠 Modular LangChain Agent Workflow
 This project implements a modular agent workflow using [LangChain](https://www.langchain.com/) and [LangGraph](https://github.com/langchain-ai/langgraph). It features a planning agent, a tool executor, and a feedback loop to iteratively refine tasks based on tool outputs
 
 ---
+![Screenshot 2025-04-24 180144](https://github.com/user-attachments/assets/93ed9e56-8ed1-466b-8db8-19d1450e2a04)
+
 
 ## 📁 Project Structure
 
