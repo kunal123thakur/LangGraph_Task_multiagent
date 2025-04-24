@@ -1,6 +1,6 @@
 
 # 🧠 Modular LangChain Agent Workflow
-This project implements a modular agent workflow using [LangChain](https://www.langchain.com/) and [LangGraph](https://github.com/langchain-ai/langgraph). It features a planning agent, a tool executor, and a feedback loop to iteratively refine tasks based on tool outputs
+This project implements a modular agent workflow using langGraph. It features a planning agent, a tool executor, and a feedback loop to iteratively refine tasks based on tool outputs
 
 ---
 ![Screenshot 2025-04-24 180144](https://github.com/user-attachments/assets/93ed9e56-8ed1-466b-8db8-19d1450e2a04)
